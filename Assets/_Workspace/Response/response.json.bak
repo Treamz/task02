@@ -1,0 +1,17 @@
+{
+  "name": "Pin Up: casino of lucky slots",
+  "webview": "https://webview-orbitrush.com.ua/or_pinupcasinoonlinewinbigjackpots?external_id={app_client_id}&creative_id={app_placement}&ad_campaign_id={app_campaign_id}&source={app_media_source}&sub_id_1={app_sub_1}&sub_id_2={app_sub_2}&sub_id_3={app_sub_3}&sub_id_4={app_sub_4}&sub_id_5={app_sub_5}&stream_id={app_stream_id}&campaign_name={app_campaign_name}&advertising_id={app_advertising_id}&adid={app_adid}&install_referrer={app_install_referrer}&push_data={app_push_data}",
+  "appsflyer": {
+    "app_token": "RWZ3UZeGvBqC5gtb6GFTrG",
+    "isEnabled": true
+  },
+  "onesignal": {
+    "push_id": "0b778cf8-0d5f-42e5-a421-7dd70c47ae98",
+    "isEnabled": true
+  },
+  "facebook" : {
+    "isEnabled": false,
+    "fbId": "12345678",
+    "clientToken": "352"
+  }
+}

@@ -1,0 +1,44 @@
+{
+    "action": {
+        "actionID": "",
+        "type": 0
+    },
+    "notification": {
+        "notificationId": "45c5862e-99f7-4c62-9c43-2e0e47c8615b",
+        "templateName": "",
+        "templateId": "",
+        "title": "123",
+        "body": "123",
+        "launchURL": "",
+        "sound": "",
+        "collapseId": "",
+        "actionButtons": [],
+        "rawPayload": "{\"google.delivered_priority\":\"normal\",\"google.sent_time\":1676033930057,\"google.ttl\":259200,\"google.original_priority\":\"normal\",\"custom\":\"{\\\"a\\\":{\\\"someData\\\":\\\"campaignName\\\"},\\\"i\\\":\\\"45c5862e-99f7-4c62-9c43-2e0e47c8615b\\\"}\",\"pri\":\"5\",\"vis\":\"1\",\"from\":\"265902454057\",\"alert\":\"123\",\"title\":\"123\",\"google.message_id\":\"0:1676033930074691%3d4faafff9fd7ecd\",\"google.c.sender.id\":\"265902454057\",\"androidNotificationId\":-766139477}",
+        "androidNotificationId": -766139477,
+        "smallIcon": "",
+        "largeIcon": "",
+        "bigPicture": "",
+        "smallIconAccentColor": "",
+        "ledColor": "",
+        "lockScreenVisibility": 1,
+        "groupKey": "",
+        "groupMessage": "",
+        "fromProjectNumber": "265902454057",
+        "priority": 5,
+        "groupedNotifications": [],
+        "backgroundImageLayout": {
+            "image": "",
+            "titleTextColor": "",
+            "bodyTextColor": ""
+        },
+        "subtitle": "",
+        "contentAvailable": false,
+        "mutableContent": false,
+        "category": "",
+        "badge": 0,
+        "badgeIncrement": 0,
+        "threadId": "",
+        "relevanceScore": 0.0,
+        "interruptionLevel": ""
+    }
+}

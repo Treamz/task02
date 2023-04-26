@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "243676991351",
+    "project_id": "anyakovakova-fed94",
+    "storage_bucket": "anyakovakova-fed94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243676991351:android:c632386699bf877e50db72",
+        "android_client_info": {
+          "package_name": "mostbet.online.aviator.winslots"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243676991351-7244iot7pmn202s40gqls8oprmslhii5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8jXBbM_jtVDOtDqqmB3dlxh7yXyDB7gc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243676991351-7244iot7pmn202s40gqls8oprmslhii5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243676991351:android:05537798f00d716e50db72",
+        "android_client_info": {
+          "package_name": "pin.up.pinup.cazino"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243676991351-7244iot7pmn202s40gqls8oprmslhii5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8jXBbM_jtVDOtDqqmB3dlxh7yXyDB7gc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243676991351-7244iot7pmn202s40gqls8oprmslhii5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
